@@ -1,0 +1,11 @@
+Start
+Declare variables t,n,i
+Declare a string a
+Initialize the variables int the string 
+Declare k
+Initilize k value as equal to i or j
+If (a[k]=a[i]*a[j])
+Print  YES
+Else
+Print No 
+End
